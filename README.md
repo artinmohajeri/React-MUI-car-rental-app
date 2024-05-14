@@ -1,5 +1,5 @@
 # Responsive React Car Rental Application
-### I have used React, material ui, React-router-dom, bootstrap5, css3 in this project.
+### I have used React, material ui, React-Swiper, React-router-dom, bootstrap5, css3 in this project.
 
 ![redLine](https://github.com/artinmohajeri/React-MUI-car-rental-app/assets/95845593/46f619a7-6340-4cc6-9f55-e0779c493d74)
 
